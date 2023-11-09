@@ -10,14 +10,25 @@ Language - Python
 Algorithms - Logistic Regression, Gaussian NB, Decision Tree and Random forest
 
 # Process 
-1 Importing the data
-2 Checking null values 
-3 Checking data types
-4 Exploring data distribution and summary statistics
-5 Examining the count of the target variable
-6 Data grouping and cleaning 
-7 Count plot on each column to understand the imbalance 
-8 Splitting into train and test set 
-9 Encoding and sampling 
-10 Fitting into the machine learning model for logistic regression, Gaussian Naive Bayes, Decision Tree and Random forest. 
-11 Use the best model to predict which drug type a patient should be prescribed from the sample data 
+(1) Importing the data
+
+(2) Checking null values 
+
+(3) Checking data types  
+
+(4) Exploring data distribution and summary statistics
+
+(5) Examining the count of the target variable
+
+(6) Data grouping and cleaning 
+
+(7) Count plot on each column to understand the imbalance
+
+(8) Splitting into train and test set
+
+(9) Encoding and sampling 
+
+(10) Fitting into the machine learning model for logistic regression, Gaussian Naive Bayes, Decision Tree and Random forest.
+
+(11) Use the best model to predict which drug type a patient should be prescribed from the sample data
+
